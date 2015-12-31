@@ -1,5 +1,4 @@
-//CSCI 470
-//Assignment 5
+﻿//Assignment 5
 //DUE DATE: 12/01/2015
 
 package tiledesigner;
